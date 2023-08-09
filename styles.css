@@ -97,5 +97,7 @@
         max-width: 350px;
         margin-left: 0;
     }
-    
+    .input-box{
+        padding: 8px 10px;
+    }
 }
