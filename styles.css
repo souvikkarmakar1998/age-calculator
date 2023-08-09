@@ -88,3 +88,14 @@
 #result span{
     color: #201414
 }
+
+@media screen and (max-width: 640px) {
+    .calculator h1{
+        font-size: 40px;
+    }
+    .calculator{
+        max-width: 350px;
+        margin-left: 0;
+    }
+    
+}
